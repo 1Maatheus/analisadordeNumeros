@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(103, 128, 126);
+  font-family: "Inconsolata", monospace;
+  font-size: 1rem;
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+section {
+  background-color: rgb(241, 241, 241);
+  border-radius: 10px;
+  padding: 10px;
+  width: 550px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.342);
+}
+
+div {
+  padding: 10px;
+  word-wrap: break-word;
+}
+
+footer {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-style: italic;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+input {
+  cursor: pointer;
+}
+
+.btn {
+  width: 6rem;
+  height: 2rem;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  background-color: #c2c1c1;
+}
+
+select#flista {
+  width: 10rem;
+  margin-top: 2rem;
+}
+
+.btn1 {
+  margin-top: 2rem;
+  width: 6rem;
+  height: 2rem;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  background-color: #c2c1c1;
+}
